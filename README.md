@@ -27,7 +27,7 @@ Set the username in main.rs, then:
 ```
 $ cargo run -- --count 200
 ```
-Try to not use counts that are much larger to prevent strain on ListenBrainz / MusicBrainz servers.
+Try not to use counts that are much larger to prevent strain on ListenBrainz / MusicBrainz servers.
 It won't give you much more insightful data anyways.
 
 There are two .json files in the repository that configure the program:
